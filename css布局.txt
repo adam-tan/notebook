@@ -1,0 +1,18 @@
+1. max-width设置宽度，支持移动设备
+
+2. -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    使得元素的内边距和边框不会增加它的宽度
+
+3.position：relative 相对定位，相对原来的位置
+  position：absolute 绝对定位，相对于最初定位的元素
+  position：fixed    相对于窗口定位，可以制作在窗口固定的标题栏
+
+4、overflow: auto 防止浮动元素溢出，比如图片浮动溢出div元素
+
+5.“响应式设计（Responsive Design”）
+    是一种让网站针对不同的浏览器和设备“呈现”不同显示效果的策略
+6.column-count: 3;
+  column-gap: 1em;
+  文字多列布局
